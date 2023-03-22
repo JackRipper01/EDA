@@ -1,0 +1,15 @@
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\bin\Debug\net6.0\Binary_Search_Structure.exe
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\bin\Debug\net6.0\Binary_Search_Structure.deps.json
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\bin\Debug\net6.0\Binary_Search_Structure.runtimeconfig.json
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\bin\Debug\net6.0\Binary_Search_Structure.dll
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\bin\Debug\net6.0\ref\Binary_Search_Structure.dll
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\bin\Debug\net6.0\Binary_Search_Structure.pdb
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\obj\Debug\net6.0\Binary_Search_Structure.csproj.AssemblyReference.cache
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\obj\Debug\net6.0\Binary_Search_Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\obj\Debug\net6.0\Binary_Search_Structure.AssemblyInfoInputs.cache
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\obj\Debug\net6.0\Binary_Search_Structure.AssemblyInfo.cs
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\obj\Debug\net6.0\Binary_Search_Structure.csproj.CoreCompileInputs.cache
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\obj\Debug\net6.0\Binary_Search_Structure.dll
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\obj\Debug\net6.0\ref\Binary_Search_Structure.dll
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\obj\Debug\net6.0\Binary_Search_Structure.pdb
+C:\Franco\franco\Proyects\JackRipper01\EDA\Binary_Search_Structure\obj\Debug\net6.0\Binary_Search_Structure.genruntimeconfig.cache
